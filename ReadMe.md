@@ -9,8 +9,8 @@ PrefSCom is designed for **Solidity  comment generation**. Given a Solidity func
 ------
 
 ## Approach
+![绘图1](https://github.com/shawnwbts/PrefSCom/blob/master/pic.png)
 
-https://github.com/shawnwbts/PrefSCom/blob/master/pic.png
 
 ------
 
