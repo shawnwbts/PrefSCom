@@ -10,7 +10,7 @@ PrefSCom is designed for **Solidity  comment generation**. Given a Solidity func
 
 ## Approach
 
-https://github.com/shawnwbts/SIRCOT-main/blob/master/SIRCOT.png
+https://github.com/shawnwbts/PrefSCom/blob/master/pic.png
 
 ------
 
